@@ -1,0 +1,1567 @@
+Phố,Phường,Quận,Thành phố/Tỉnh,Diện tích,Số tầng,Số phòng ngủ,WC,Mặt tiền,Vị trí,Kiểu nhà,Pháp lý,Thang Máy,Giá nhà(Tỷ)
+Vạn Bảo, Phường Kim Mã,Quận Ba Đình,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.6
+Phường Giảng Võ,Quận Ba Đình,Quận Ba Đình,Hà Nội,55.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.45
+Yên Phụ, Phường Trúc Bạch,Quận Ba Đình,Hà Nội,140.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,15.2
+Phường Ngọc Khánh,Quận Ba Đình,Quận Ba Đình,Hà Nội,115.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,6.95
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.86
+Phường Giảng Võ,Quận Ba Đình,Quận Ba Đình,Hà Nội,113.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,6.9
+Cửa Bắc, Phường Trúc Bạch,Quận Ba Đình,Hà Nội,80.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.85
+Phường Giảng Võ,Quận Ba Đình,Quận Ba Đình,Hà Nội,80.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,6.15
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,82.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.86
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,1,0,0,nan,chungCu,Sổ đỏ,0,0.88
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.67
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.69
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,53.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.69
+Liễu Giai, Phường Ngọc Hà,Quận Ba Đình,Hà Nội,32.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.69
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.88
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.79
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,44.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.77
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.62
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,55.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.635
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,55.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.65
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,52.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.63
+Hoàng Diệu, Phường Cống Vị,Quận Ba Đình,Hà Nội,44.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.94
+Phan Kế Bính, Phường Vĩnh Phúc,Quận Ba Đình,Hà Nội,45.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.72
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,43.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.65
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,43.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.77
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,42.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.82
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,31.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.66
+Độc Lập, Phường Ngọc Hà,Quận Ba Đình,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.642
+Phan Kế Bính, Phường Cống Vị,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.71
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,46.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.66
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.78
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,32.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.78
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,2,3,0,nan,chungCu,Sổ đỏ,0,0.6
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.8
+Giang Văn Minh, Phường Đội Cấn,Quận Ba Đình,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.55
+Nguyễn Chí Thanh, Phường Thành Công,Quận Ba Đình,Hà Nội,75.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.25
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.88
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.8
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.87
+Giang Văn Minh, Phường Cống Vị,Quận Ba Đình,Hà Nội,50.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,2.3
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.98
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,55.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.3
+Yên Phụ, Phường Trúc Bạch,Quận Ba Đình,Hà Nội,120.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,11.5
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,53.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.7
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,54.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.65
+Phường Cống Vị,Quận Ba Đình,Quận Ba Đình,Hà Nội,64.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.2
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,30.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.8
+Đốc Ngữ, Phường Vĩnh Phúc,Quận Ba Đình,Hà Nội,91.0,1,3,1,0,nan,chungCu,Sổ đỏ,0,3.4
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.78
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.82
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.9
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.89
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.88
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.98
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,52.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.88
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,52.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.98
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.98
+Lê Hồng Phong, Phường Đội Cấn,Quận Ba Đình,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.8
+Chu Văn An, Phường Ngọc Hà,Quận Ba Đình,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.2
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,112.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.8
+Đội Cấn, Phường Cống Vị,Quận Ba Đình,Hà Nội,108.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.1
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,200.0,1,4,4,0,nan,chungCu,Sổ đỏ,0,7.99
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,112.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.004
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,114.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.95
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,108.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.1
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,91.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.4
+Đốc Ngữ, Phường Vĩnh Phúc,Quận Ba Đình,Hà Nội,91.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.4
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,94.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.3
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,114.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.95
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,200.0,1,4,4,0,nan,chungCu,Sổ đỏ,0,7.99
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,112.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.8
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,112.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.9
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,108.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.1
+Đốc Ngữ, Phường Vĩnh Phúc,Quận Ba Đình,Hà Nội,112.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.15
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,112.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.15
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.2
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.67
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.89
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.89
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,46.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.65
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.64
+Đốc Ngữ, Phường Giảng Võ,Quận Ba Đình,Hà Nội,86.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.1
+Phường Ngọc Khánh,Quận Ba Đình,Quận Ba Đình,Hà Nội,125.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,10.5
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,0.65
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,0.67
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.55
+Phường Giảng Võ,Quận Ba Đình,Quận Ba Đình,Hà Nội,102.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.85
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.55
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.55
+Châu Long, Phường Giảng Võ,Quận Ba Đình,Hà Nội,82.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.9
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,55.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.4
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.5
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,62.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.85
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,90.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.85
+Phường Giảng Võ,Quận Ba Đình,Quận Ba Đình,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.9
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.2
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,55.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.65
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,67.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,3.28
+Phường Kim Mã,Quận Ba Đình,Quận Ba Đình,Hà Nội,60.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.2
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,45.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,2.6
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,38.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.5
+Phường Kim Mã,Quận Ba Đình,Quận Ba Đình,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.6
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,36.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.8
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.19
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.8
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,155.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.15
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,52.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.8
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.6
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.0
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.4
+Phường Ngọc Khánh,Quận Ba Đình,Quận Ba Đình,Hà Nội,145.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.4
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.95
+Phường Giảng Võ,Quận Ba Đình,Quận Ba Đình,Hà Nội,80.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.96
+Phường Ngọc Khánh,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.4
+Phường Giảng Võ,Quận Ba Đình,Quận Ba Đình,Hà Nội,80.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.65
+Phường Cống Vị,Quận Ba Đình,Quận Ba Đình,Hà Nội,60.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.85
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,6.3
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,112.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.0
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,45.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,2.2
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,72.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.15
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,45.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.45
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,75.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.3
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,80.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.15
+20 Núi Trúc Núi Trúc, Phường Ngọc Khánh,Quận Ba Đình,Hà Nội,120.0,1,2,4,0,nan,chungCu,Sổ đỏ,0,9.0
+Phường Giảng Võ,Quận Ba Đình,Quận Ba Đình,Hà Nội,75.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.9
+20 Núi Trúc Núi Trúc, Phường Ngọc Khánh,Quận Ba Đình,Hà Nội,120.0,1,2,3,0,nan,chungCu,Sổ đỏ,0,9.0
+Phường Cống Vị,Quận Ba Đình,Quận Ba Đình,Hà Nội,42.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.75
+Nguyễn Công Hoan, Phường Ngọc Khánh,Quận Ba Đình,Hà Nội,113.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.65
+Phường Kim Mã,Quận Ba Đình,Quận Ba Đình,Hà Nội,100.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,6.4
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,335.0,1,1,3,0,nan,chungCu,Sổ đỏ,0,13.0
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,55.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.95
+Phường Ngọc Khánh,Quận Ba Đình,Quận Ba Đình,Hà Nội,153.0,1,4,2,0,nan,chungCu,Sổ đỏ,0,5.1
+Phường Kim Mã,Quận Ba Đình,Quận Ba Đình,Hà Nội,125.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,8.6
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,65.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,2.6
+Phường Giảng Võ,Quận Ba Đình,Quận Ba Đình,Hà Nội,77.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.7
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,70.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,2.7
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,70.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.85
+Ngọc Khánh, Phường Cống Vị,Quận Ba Đình,Hà Nội,80.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.5
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,100.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,3.2
+Hàng Than, Phường Nguyễn Trung Trực,Quận Ba Đình,Hà Nội,40.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,2.5
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,70.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.85
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,105.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.5
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,90.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.45
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,57.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.5
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,155.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.99
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,100.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.6
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.63
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.56
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.62
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.6
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.57
+Đốc Ngữ, Phường Vĩnh Phúc,Quận Ba Đình,Hà Nội,91.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.3
+Đốc Ngữ, Phường Liễu Giai,Quận Ba Đình,Hà Nội,120.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.7
+Phường Giảng Võ,Quận Ba Đình,Quận Ba Đình,Hà Nội,75.0,1,4,4,0,nan,chungCu,Sổ đỏ,0,2.36
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.82
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,31.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.79
+Phường Kim Mã,Quận Ba Đình,Quận Ba Đình,Hà Nội,113.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.751
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,43.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.66
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,90.0,1,3,1,0,nan,chungCu,Sổ đỏ,0,2.5
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,90.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.1
+Đốc Ngữ, Phường Liễu Giai,Quận Ba Đình,Hà Nội,91.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,3.5
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.0
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,62.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,2.28
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,85.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,4.35
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,85.0,1,4,2,0,nan,chungCu,Sổ đỏ,0,2.3
+Phường Thành Công,Quận Ba Đình,Quận Ba Đình,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.65
+Phường Giảng Võ,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,3.43
+Phường Giảng Võ,Quận Ba Đình,Quận Ba Đình,Hà Nội,55.0,1,1,1,0,nan,chungCu,Sổ hồng,0,3.48
+Phường Giảng Võ,Quận Ba Đình,Quận Ba Đình,Hà Nội,55.0,1,1,1,0,nan,chungCu,Sổ hồng,0,3.48
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,90.0,1,2,2,0,nan,chungCu,Sổ hồng,0,5.0
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.7
+Phường Kim Mã,Quận Ba Đình,Quận Ba Đình,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.45
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.69
+Giang Văn Minh, Phường Đội Cấn,Quận Ba Đình,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.8
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,55.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.7
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.8
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.68
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.609
+Giang Văn Minh, Phường Đội Cấn,Quận Ba Đình,Hà Nội,50.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.609
+Phường Kim Mã,Quận Ba Đình,Quận Ba Đình,Hà Nội,55.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.635
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,56.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.685
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,55.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.68
+Lê Hồng Phong, Phường Điện Biên,Quận Ba Đình,Hà Nội,55.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.78
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,55.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.65
+Lê Hồng Phong, Phường Điện Biên,Quận Ba Đình,Hà Nội,54.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.645
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,53.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.68
+Nguyễn Thái Học, Phường Điện Biên,Quận Ba Đình,Hà Nội,53.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.7
+Phường Ngọc Khánh,Quận Ba Đình,Quận Ba Đình,Hà Nội,54.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.65
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.68
+Phường Ngọc Khánh,Quận Ba Đình,Quận Ba Đình,Hà Nội,30.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.65
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,32.0,1,1,3,0,nan,chungCu,Sổ hồng,0,0.87
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.75
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.87
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.7
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.85
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,32.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.87
+Phường Giảng Võ,Quận Ba Đình,Quận Ba Đình,Hà Nội,88.0,1,2,2,0,nan,chungCu,Sổ hồng,0,5.7
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.16
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.99
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,45.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.78
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.0
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.63
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,36.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.68
+Phường Kim Mã,Quận Ba Đình,Quận Ba Đình,Hà Nội,45.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.8
+Phường Giảng Võ,Quận Ba Đình,Quận Ba Đình,Hà Nội,45.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.78
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.98
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.88
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,90.0,1,3,1,0,nan,chungCu,Sổ hồng,0,2.8
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.7
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,55.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.7
+Phường Ngọc Khánh,Quận Ba Đình,Quận Ba Đình,Hà Nội,55.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.67
+Phường Kim Mã,Quận Ba Đình,Quận Ba Đình,Hà Nội,6.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.7
+Núi Trúc, Phường Ngọc Khánh,Quận Ba Đình,Hà Nội,310.0,1,3,3,0,nan,chungCu,Sổ hồng,0,31.0
+Đặng Dung, Phường Trúc Bạch,Quận Ba Đình,Hà Nội,310.0,1,3,3,0,nan,chungCu,Sổ hồng,0,31.0
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,34.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.78
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.7
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.99
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.68
+Liễu Giai, Phường Vĩnh Phúc,Quận Ba Đình,Hà Nội,34.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.63
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.0
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,48.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.6
+Kim Mã, Phường Điện Biên,Quận Ba Đình,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.62
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.65
+Phường Ngọc Khánh,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,1,1,0,nan,chungCu,Sổ hồng,0,6.0
+Đốc Ngữ, Phường Vĩnh Phúc,Quận Ba Đình,Hà Nội,91.0,1,2,1,0,nan,chungCu,Sổ hồng,0,3.5
+Phường Giảng Võ,Quận Ba Đình,Quận Ba Đình,Hà Nội,118.0,1,3,2,0,nan,chungCu,Sổ hồng,0,7.25
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,188.0,1,3,3,0,nan,chungCu,Sổ hồng,0,8.0
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,112.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.0
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,112.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.8
+Đốc Ngữ, Phường Vĩnh Phúc,Quận Ba Đình,Hà Nội,91.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.5
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,95.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.3
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,128.0,1,3,2,0,nan,chungCu,Sổ hồng,0,7.2
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.53
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.53
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,32.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.8
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.81
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.8
+Nguyễn Thái Học, Phường Điện Biên,Quận Ba Đình,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.05
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.7
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,40.0,1,1,1,0,nan,chungCu,Sổ hồng,0,1.45
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,53.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.45
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,40.0,1,1,1,0,nan,chungCu,Sổ hồng,0,1.4
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,40.0,1,1,1,0,nan,chungCu,Sổ hồng,0,1.35
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,43.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.67
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.66
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.67
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,51.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.69
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,40.0,1,1,1,0,nan,chungCu,Sổ hồng,0,1.3
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,51.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.73
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.71
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.72
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,40.0,1,1,1,0,nan,chungCu,Sổ hồng,0,1.32
+Phường Kim Mã,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.6
+Phường Cống Vị,Quận Ba Đình,Quận Ba Đình,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.1
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,108.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.1
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,80.0,1,2,2,0,nan,chungCu,Sổ hồng,0,8.15
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.39
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,29.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.39
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,55.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.5
+Phường Cống Vị,Quận Ba Đình,Quận Ba Đình,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.75
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.69
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,32.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.79
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,33.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.75
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.65
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,41.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.45
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,41.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.455
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,41.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.455
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,40.0,1,1,1,0,nan,chungCu,Sổ hồng,0,1.455
+Phường Liễu Giai,Quận Ba Đình,Quận Ba Đình,Hà Nội,50.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.7
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,46.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.25
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,40.0,1,1,2,0,nan,chungCu,Sổ hồng,0,1.43
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.007
+Phường Ngọc Hà,Quận Ba Đình,Quận Ba Đình,Hà Nội,67.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.007
+Đê La Thành, Phường Kim Mã,Quận Ba Đình,Hà Nội,113.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.25
+Phường Cống Vị,Quận Ba Đình,Quận Ba Đình,Hà Nội,28.0,1,1,1,0,nan,chungCu,Sổ hồng,0,1.5
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,43.0,1,1,1,0,nan,chungCu,Sổ hồng,0,1.45
+Phường Cống Vị,Quận Ba Đình,Quận Ba Đình,Hà Nội,63.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.38
+Phường Điện Biên,Quận Ba Đình,Quận Ba Đình,Hà Nội,53.0,1,1,1,0,nan,chungCu,Sổ hồng,0,3.0
+Đào Tấn, Phường Ngọc Khánh,Quận Ba Đình,Hà Nội,90.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.75
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,90.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.75
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,40.0,1,1,1,0,nan,chungCu,Sổ hồng,0,1.47
+Phường Đội Cấn,Quận Ba Đình,Quận Ba Đình,Hà Nội,40.0,1,1,1,0,nan,chungCu,Sổ hồng,0,1.4
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.4
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.42
+Phường Vĩnh Phúc,Quận Ba Đình,Quận Ba Đình,Hà Nội,81.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,148.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.588
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.69
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,73.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.65
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,266.0,1,4,2,0,nan,chungCu,Sổ đỏ,0,26.0
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,115.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.8
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,126.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.9
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,151.0,1,4,2,0,nan,chungCu,Sổ đỏ,0,7.9
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.9
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,81.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.8
+Nguyễn Văn Huyên, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,100.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.65
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,67.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.96
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,67.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.65
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.09
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,86.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.95
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,101.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.25
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.14
+Nam Trung Yên, Phường Dịch Vọng Hậu,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.889
+Nguyễn Thị Định, Phường Dịch Vọng Hậu,Quận Cầu Giấy,Hà Nội,78.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,4.389
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.04
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.5
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.35
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.0
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.35
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,117.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,7.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,123.0,1,4,2,0,nan,chungCu,Sổ đỏ,0,5.9
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,95.0,1,3,1,0,nan,chungCu,Sổ đỏ,0,5.0
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,148.0,1,4,0,0,nan,chungCu,Sổ đỏ,0,0.05
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,153.0,1,5,0,0,nan,chungCu,Sổ đỏ,0,6.885
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.43
+Nguyễn Văn Huyên, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,147.0,1,4,1,0,nan,chungCu,Sổ đỏ,0,7.4
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.0
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.5
+Nguyễn Văn Huyên, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,60.0,1,5,15,0,nan,chungCu,Sổ đỏ,0,3.15
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.85
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,90.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.15
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.6
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,63.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.7
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,160.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,7.2
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,73.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.38
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,95.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.8
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,227.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,9.8
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,90.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.0
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,95.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,7.5
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,140.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,7.915
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.0
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,138.0,1,3,1,0,nan,chungCu,Sổ đỏ,0,7.915
+Phạm Hùng, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,72.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.35
+Phạm Hùng, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,138.0,1,3,4,0,nan,chungCu,Sổ đỏ,0,6.9
+Đại Lộ Thăng Long, Phường Trung Hòa,Quận Cầu Giấy,Hà Nội,117.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,6.5
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,91.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.7
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.6
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,120.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,151.0,1,4,2,0,nan,chungCu,Sổ đỏ,0,7.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,160.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,7.5
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,94.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.1
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,66.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.75
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,276.0,1,5,4,0,nan,chungCu,Sổ đỏ,0,10.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,158.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,5.372
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,207.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,6.15
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.35
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,172.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,10.6
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,0.004
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.9
+Nguyễn Văn Huyên, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,96.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.35
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,114.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.9
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,106.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,6.0
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,116.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.95
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.15
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,117.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,6.7
+Xuân Thủy, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,106.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,8.0
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,45.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.8
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,50.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.63
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,52.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.65
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,52.0,1,5,5,0,nan,chungCu,Sổ đỏ,0,0.65
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,136.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.6
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.7
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,102.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.1
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,122.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.5
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.35
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,128.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.8
+Trung Yên, Phường Yên Hòa,Quận Cầu Giấy,Hà Nội,121.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.4
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.85
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,227.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,9.7
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,95.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,6.55
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.7
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,91.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.3
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.7
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.45
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,73.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.65
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,111.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.1
+Đại Lộ Thăng Long, Phường Trung Hòa,Quận Cầu Giấy,Hà Nội,130.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,6.7
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,55.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.699
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,145.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,8.4
+Xuân Thủy, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,109.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,6.9
+Xuân Thủy, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.0
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,217.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,13.6
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,139.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.421
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.65
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,139.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,6.234
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.7
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.8
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.5
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.65
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.0
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,95.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.9
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,94.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.899
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,55.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.8
+Trần Thái Tông, Phường Nghĩa Đô,Quận Cầu Giấy,Hà Nội,134.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,8.5
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,98.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.3
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.399
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.876
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,98.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.94
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,82.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.4
+Phạm Hùng, Phường Mai Dịch,Quận Cầu Giấy,Hà Nội,105.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.775
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.4
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,101.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.25
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,71.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.7
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,94.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.25
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,69.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.6
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.6
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.8
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.5
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.7
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,73.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,127.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.2
+Nguyễn Khang, Phường Trung Hòa,Quận Cầu Giấy,Hà Nội,46.0,1,13,13,0,nan,chungCu,Sổ đỏ,0,6.7
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,73.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.9
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,71.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.337
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,72.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.2
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,84.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,0.002
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,79.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,62.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.5
+Láng Hòa Lạc, Phường Yên Hòa,Quận Cầu Giấy,Hà Nội,67.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.7
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.7
+Mạc Thái Tông, Phường Trung Hòa,Quận Cầu Giấy,Hà Nội,59.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.033
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,3.45
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.299
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,103.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.85
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,151.0,1,4,2,0,nan,chungCu,Sổ đỏ,0,6.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.9
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.95
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,132.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.2
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.0
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,127.0,1,3,1,0,nan,chungCu,Sổ đỏ,0,7.499
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,114.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.699
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,173.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,8.5
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,30.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.68
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.8
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,66.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.8
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,54.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.8
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.25
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,85.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.94
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.2
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,88.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.75
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.58
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.3
+Vũ Phạm Hàm, Phường Nghĩa Tân,Quận Cầu Giấy,Hà Nội,57.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.4
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,132.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,8.5
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,114.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.7
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,120.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.97
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,102.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.8
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,86.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.0
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,73.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.7
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.8
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,57.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.4
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,85.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.15
+Nguyễn Văn Huyên, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,87.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.8
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,79.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.05
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.9
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.4
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.03
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,111.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.1
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,181.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,7.9
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,89.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.25
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.95
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,102.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.7
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,74.0,1,3,1,0,nan,chungCu,Sổ đỏ,0,2.65
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.5
+Nguyễn Chánh, Phường Dịch Vọng Hậu,Quận Cầu Giấy,Hà Nội,94.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.15
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.98
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,85.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.95
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.6
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,67.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.7
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.88
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,102.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.65
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,160.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,6.0
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,119.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.15
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,132.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.9
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.28
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,160.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,5.99
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,128.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.4
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,95.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.4
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,128.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.4
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.68
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,59.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.9
+Đông Quan, Phường Trung Hòa,Quận Cầu Giấy,Hà Nội,95.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,3.5
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,130.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,3.8
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.1
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,130.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.8
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,78.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.55
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.58
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.3
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,78.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.1
+Yên Hòa, Phường Nghĩa Tân,Quận Cầu Giấy,Hà Nội,90.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.99
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.15
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,63.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.7
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,56.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.915
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,109.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.924
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,116.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.35
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,118.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.8
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,102.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.26
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,78.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.2
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.9
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.68
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.48
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,139.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.5
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.6
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,75.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.33
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.35
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,90.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.1
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,62.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.3
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,82.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.45
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,158.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,6.478
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,104.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.85
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,85.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.43
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,123.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.658
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,112.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.8
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,121.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.8
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.9
+Trung Yên, Phường Yên Hòa,Quận Cầu Giấy,Hà Nội,102.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.65
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,150.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.4
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,101.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,151.0,1,4,2,0,nan,chungCu,Sổ đỏ,0,5.55
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,144.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,6.15
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,64.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.4
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,151.0,1,4,2,0,nan,chungCu,Sổ đỏ,0,5.6
+Mạc Thái Tông, Phường Trung Hòa,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,101.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,85.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.85
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,146.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.402
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,123.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.75
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,90.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.85
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,103.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.9
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,128.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,104.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.1
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,151.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,5.6
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,103.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.85
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,130.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,133.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.95
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.95
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,103.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.85
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,104.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.5
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,118.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,3.8
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,98.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.5
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,104.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.7
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.6
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.55
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,75.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.6
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,62.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.25
+Thành Thái, Phường Yên Hòa,Quận Cầu Giấy,Hà Nội,178.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,7.9
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,133.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,6.35
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,89.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.45
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,63.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.2
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,113.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.55
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.48
+Võ Chí Công, Phường Nghĩa Đô,Quận Cầu Giấy,Hà Nội,70.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,4.2
+Võ Chí Công, Phường Nghĩa Đô,Quận Cầu Giấy,Hà Nội,123.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,5.9
+Võ Chí Công, Phường Nghĩa Đô,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,123.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.8
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,66.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.45
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.75
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,55.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.2
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,95.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.7
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.4
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,81.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.35
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.0
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.57
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,123.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.55
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.5
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,104.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.85
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,71.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.5
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.65
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,64.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.4
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,131.0,1,4,2,0,nan,chungCu,Sổ đỏ,0,6.681
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,40.0,1,4,4,0,nan,chungCu,Sổ đỏ,0,4.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.8
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,85.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.2
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.25
+Phạm Văn Bạch, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,141.0,1,4,2,0,nan,chungCu,Sổ đỏ,0,6.25
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,235.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,6.8
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,45.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.98
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,141.0,1,4,2,0,nan,chungCu,Sổ đỏ,0,6.25
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,205.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,9.2
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,36.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.8
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,0.002
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.2
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,118.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.15
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.3
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.05
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,79.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.5
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,159.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.55
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,46.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.33
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,86.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.35
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,113.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.7
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,83.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.1
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.5
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,64.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.78
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,139.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.65
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,71.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.15
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,42.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.05
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,82.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.015
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,123.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.699
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.2
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,132.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,3.7
+Nguyễn Khang, Phường Yên Hòa,Quận Cầu Giấy,Hà Nội,25.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.003
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,86.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.75
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.75
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.2
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,86.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.75
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,93.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.976
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,55.0,1,4,4,0,nan,chungCu,Sổ đỏ,0,12.5
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.73
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.95
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,141.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.6
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,104.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.4
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.3
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,88.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.84
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,87.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.95
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,87.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.9
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,130.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.46
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,144.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,6.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,114.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.2
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,172.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,7.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,114.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.1
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,98.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.7
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,130.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.42
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,109.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.36
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,130.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.1
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.45
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,95.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.9
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,123.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.2
+Nhân Chính, Phường Yên Hòa,Quận Cầu Giấy,Hà Nội,162.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,118.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.5
+Đông Quan, Phường Mai Dịch,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.4
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,86.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.4
+Nhân Chính, Phường Quan Hoa,Quận Cầu Giấy,Hà Nội,115.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.2
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.2
+Trần Kim Xuyến, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,100.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.5
+Nguyễn Văn Huyên, Phường Mai Dịch,Quận Cầu Giấy,Hà Nội,133.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.2
+Nhân Chính, Phường Yên Hòa,Quận Cầu Giấy,Hà Nội,165.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.8
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,55.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.3
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,86.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.6
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.3
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,4,4,0,nan,chungCu,Sổ đỏ,0,14.0
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,87.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.9
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.05
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,87.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.95
+Nguyễn Văn Huyên, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,81.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.54
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,161.0,1,4,2,0,nan,chungCu,Sổ đỏ,0,4.508
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.5
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.95
+Trần Đăng Ninh, Phường Trung Hòa,Quận Cầu Giấy,Hà Nội,113.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.7
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,108.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.7
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,107.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.7
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,118.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.7
+Xuân Thủy, Phường Nghĩa Đô,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.35
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.25
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.9
+Nhân Hòa, Phường Trung Hòa,Quận Cầu Giấy,Hà Nội,122.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.3
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,118.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.7
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,94.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.85
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,58.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.65
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,50.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.5
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,82.0,1,3,1,0,nan,chungCu,Sổ đỏ,0,3.05
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,73.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.65
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,113.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.7
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.0
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,146.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,3.95
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,148.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,6.112
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.9
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.8
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,46.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.9
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,105.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.25
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,42.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.9
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.1
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,88.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.75
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,90.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.0
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.3
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,42.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.17
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,88.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.0
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,57.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.1
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,105.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.6
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.9
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,107.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.0
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.8
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,120.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.48
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.92
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,158.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,7.1
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.5
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,47.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.55
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.6
+Đông Quan, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,95.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.8
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.6
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,40.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.5
+Mạc Thái Tổ, Phường Nghĩa Đô,Quận Cầu Giấy,Hà Nội,40.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.35
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,122.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.5
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,116.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.8
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.25
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,43.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.7
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.7
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,82.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.1
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.072
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.58
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.87
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.288
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,194.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,7.5
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,85.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.4
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,194.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,7.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,115.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.99
+Doãn Kế Thiện, Phường Yên Hòa,Quận Cầu Giấy,Hà Nội,50.0,1,4,4,0,nan,chungCu,Sổ đỏ,0,6.0
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,212.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,7.5
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.89
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.849
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,113.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.181
+Nam Trung Yên, Phường Dịch Vọng Hậu,Quận Cầu Giấy,Hà Nội,57.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.75
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,73.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.2
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,56.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.63
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.039
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,130.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.9
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,71.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.6
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,101.0,1,3,2,0,nan,chungCu,Sổ hồng,0,6.45
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,101.0,1,3,2,0,nan,chungCu,Sổ hồng,0,6.5
+Trung Yên, Phường Yên Hòa,Quận Cầu Giấy,Hà Nội,73.0,1,2,1,0,nan,chungCu,Sổ hồng,0,3.65
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,148.0,1,4,2,0,nan,chungCu,Sổ hồng,0,9.5
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,79.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.58
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,58.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.0
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,3,1,0,nan,chungCu,Sổ hồng,0,3.43
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,75.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.85
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,7.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.7
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.5
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.15
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,56.0,1,2,1,0,nan,chungCu,Sổ hồng,0,3.1
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,71.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.85
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.029
+Hoàng Quốc Việt, Phường Nghĩa Đô,Quận Cầu Giấy,Hà Nội,105.0,1,3,2,0,nan,chungCu,Sổ hồng,0,7.15
+Nguyễn Văn Huyên, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,90.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.85
+Trần Quý Kiên, Phường Trung Hòa,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ hồng,0,3.1
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,121.0,1,3,2,0,nan,chungCu,Sổ hồng,0,6.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.9
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,71.0,1,2,1,0,nan,chungCu,Sổ hồng,0,3.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,125.0,1,3,2,0,nan,chungCu,Sổ hồng,0,6.55
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.37
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,1,0,nan,chungCu,Sổ hồng,0,3.58
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ hồng,0,3.16
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.96
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.93
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,78.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.35
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.95
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.73
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.85
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.5
+Phạm Văn Đồng, Phường Nghĩa Đô,Quận Cầu Giấy,Hà Nội,15000.0,1,2,2,0,nan,chungCu,Sổ hồng,0,825.0
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,140.0,1,3,2,0,nan,chungCu,Sổ hồng,0,9.8
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,90.0,1,2,2,0,nan,chungCu,Sổ hồng,0,5.2
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,138.0,1,3,3,0,nan,chungCu,Sổ hồng,0,7.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,121.0,1,3,2,0,nan,chungCu,Sổ hồng,0,6.6
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.4
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,125.0,1,4,2,0,nan,chungCu,Sổ hồng,0,5.0
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,115.0,1,3,2,0,nan,chungCu,Sổ hồng,0,6.2
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,148.0,1,4,3,0,nan,chungCu,Sổ hồng,0,8.5
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,120.0,1,3,2,0,nan,chungCu,Sổ hồng,0,6.0
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.7
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,130.0,1,3,2,0,nan,chungCu,Sổ hồng,0,7.0
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,102.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.5
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.89
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.95
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,125.0,1,3,2,0,nan,chungCu,Sổ hồng,0,7.8
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.69
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.86
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.2
+Võ Chí Công, Phường Nghĩa Đô,Quận Cầu Giấy,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.001
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.19
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,73.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.7
+Phạm Hùng, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,102.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.2
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,101.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.25
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,88.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.0
+Nguyễn Quốc Trị, Phường Trung Hòa,Quận Cầu Giấy,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.9
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.8
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,55.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.7
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,53.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.651
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,54.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.68
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.7
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,50.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.7
+Nguyễn Khang, Phường Yên Hòa,Quận Cầu Giấy,Hà Nội,50.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.7
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,54.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.7
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,50.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.7
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,117.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.861
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.35
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,141.0,1,3,2,0,nan,chungCu,Sổ hồng,0,6.345
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,172.0,1,3,2,0,nan,chungCu,Sổ hồng,0,6.52
+Đặng Thùy Trâm, Phường Dịch Vọng Hậu,Quận Cầu Giấy,Hà Nội,35.0,1,2,5,0,nan,chungCu,Sổ hồng,0,0.69
+Chùa Hà, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,40.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.65
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,35.0,1,5,1,0,nan,chungCu,Sổ hồng,0,0.65
+Xuân Thủy, Phường Dịch Vọng,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.75
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,64.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.65
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.0
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,78.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.2
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,122.0,1,2,2,0,nan,chungCu,Sổ hồng,0,5.2
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,75.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,75.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.3
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,69.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.7
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.62
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,62.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.5
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,91.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.4
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.58
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,108.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.7
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,109.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.9
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,128.0,1,3,2,0,nan,chungCu,Sổ hồng,0,6.0
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,106.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.75
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.5
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,89.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.0
+Nguyễn Khang, Phường Yên Hòa,Quận Cầu Giấy,Hà Nội,50.0,1,2,0,0,nan,chungCu,Sổ hồng,0,1.1
+Phạm Hùng, Phường Mai Dịch,Quận Cầu Giấy,Hà Nội,79.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.68
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,79.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.65
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,142.0,1,4,2,0,nan,chungCu,Sổ hồng,0,5.0
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.67
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.05
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,116.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.05
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,82.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.5
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,134.0,1,4,3,0,nan,chungCu,Sổ hồng,0,8.0
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,149.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.25
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,196.0,1,4,3,0,nan,chungCu,Sổ hồng,0,11.5
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,196.0,1,4,3,0,nan,chungCu,Sổ hồng,0,11.5
+Trung Yên, Phường Yên Hòa,Quận Cầu Giấy,Hà Nội,110.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.85
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,64.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.55
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.25
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.65
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.65
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.95
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.5
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,130.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.35
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,130.0,1,3,3,0,nan,chungCu,Sổ hồng,0,5.6
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.85
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,72.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.55
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,133.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.5
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,117.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.49
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,117.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.49
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,53.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.8
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.65
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,99.0,1,2,2,0,nan,chungCu,Sổ hồng,0,6.6
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.15
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,87.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.9
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,133.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.98
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.7
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,146.0,1,3,3,0,nan,chungCu,Sổ hồng,0,8.0
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,90.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.4
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,112.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.65
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,95.0,1,3,3,0,nan,chungCu,Sổ hồng,0,7.7
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,86.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.55
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,90.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.55
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,133.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.6
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,142.0,1,4,3,0,nan,chungCu,Sổ hồng,0,5.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.65
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,81.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.85
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,114.0,1,3,2,0,nan,chungCu,Sổ hồng,0,6.6
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.1
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,140.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.7
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,101.0,1,3,2,0,nan,chungCu,Sổ hồng,0,7.4
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,71.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.1
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,153.0,1,3,3,0,nan,chungCu,Sổ hồng,0,6.2
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,134.0,1,4,2,0,nan,chungCu,Sổ hồng,0,6.1
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,86.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.9
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,117.0,1,3,2,0,nan,chungCu,Sổ hồng,0,6.25
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,160.0,1,3,3,0,nan,chungCu,Sổ hồng,0,6.8
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,117.0,1,3,2,0,nan,chungCu,Sổ hồng,0,6.0
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,130.0,1,3,2,0,nan,chungCu,Sổ hồng,0,7.5
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,130.0,1,3,2,0,nan,chungCu,Sổ hồng,0,8.45
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,88.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.25
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,140.0,1,3,1,0,nan,chungCu,Sổ hồng,0,3.75
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,132.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.5
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,85.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.05
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,63.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.6
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,64.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.57
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.61
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,95.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.7
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,85.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.65
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.4
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.92
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.2
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,86.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.9
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.65
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,114.0,1,2,2,0,nan,chungCu,Sổ hồng,0,5.45
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.86
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ hồng,0,2.9
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,157.0,1,3,3,0,nan,chungCu,Sổ hồng,0,4.75
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,3,2,0,nan,chungCu,Sổ hồng,0,2.7
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,64.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.25
+Đoàn Thị Điểm, Phường Mai Dịch,Quận Cầu Giấy,Hà Nội,36.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.8
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,146.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.0
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,101.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.9
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,62.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.6
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,64.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.45
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,71.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.7
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,71.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.699
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,117.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.2
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.65
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.85
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,62.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.27
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.05
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,83.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.8
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,36.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.68
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,28.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.73
+Đường Láng, Phường Nghĩa Tân,Quận Cầu Giấy,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.6
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.69
+Đường Láng, Phường Dịch Vọng Hậu,Quận Cầu Giấy,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.8
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.76
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,48.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.84
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,43.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.88
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,90.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.12
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,90.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.1
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,157.0,1,3,3,0,nan,chungCu,Sổ hồng,0,4.77
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.7
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,46.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.99
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,64.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.68
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,116.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.5
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.6
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,104.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.61
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.37
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,83.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.65
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,63.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.24
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.95
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,121.0,1,3,2,0,nan,chungCu,Sổ hồng,0,7.73
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,98.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.5
+Láng Hạ, Phường Quan Hoa,Quận Cầu Giấy,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.8
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,99.0,1,3,2,0,nan,chungCu,Sổ hồng,0,2.92
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,181.0,1,3,3,0,nan,chungCu,Sổ hồng,0,6.1
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,115.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.45
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,82.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.17
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,62.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.32
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,78.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.3
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,62.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.32
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.94
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,101.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.5
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,88.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.8
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,86.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.75
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,85.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.0
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,86.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.5
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,71.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.1
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,86.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.0
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,85.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.0
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.8
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,154.0,1,4,3,0,nan,chungCu,Sổ hồng,0,9.086
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,79.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.1
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.75
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.755
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,55.0,1,1,1,0,nan,chungCu,Sổ hồng,0,1.295
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.95
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.76
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,81.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.15
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,81.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.17
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,105.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,129.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.9
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,81.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.155
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.4
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,53.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.2
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,81.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.16
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,64.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.88
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.6
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,51.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.65
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,87.0,1,3,2,0,nan,chungCu,Sổ hồng,0,2.35
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,104.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.6
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,88.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.93
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,55.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.7
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,84.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.6
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,88.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.93
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.22
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,98.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.4
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,104.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.61
+Đường 800A, Phường Dịch Vọng Hậu,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.48
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,87.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.85
+Cốm Vòng, Phường Yên Hòa,Quận Cầu Giấy,Hà Nội,62.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.3
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,50.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.56
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.1
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.4
+Võ Chí Công, Phường Nghĩa Đô,Quận Cầu Giấy,Hà Nội,30.0,1,4,5,0,nan,chungCu,Sổ hồng,0,3.6
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,117.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.93
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,105.0,1,3,3,0,nan,chungCu,Sổ hồng,0,3.25
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.39
+Phan Văn Trường, Phường Nghĩa Đô,Quận Cầu Giấy,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1560.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,111.0,1,3,2,0,nan,chungCu,Sổ hồng,0,2.7
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,59.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.398
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,81.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.54
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,127.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.68
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,119.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,79.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.45
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.1
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,58.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.93
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,61.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.39
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,87.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.9
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,79.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.465
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,87.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.91
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.95
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,106.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.95
+Nguyễn Khang, Phường Quan Hoa,Quận Cầu Giấy,Hà Nội,88.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.93
+Đường 800A, Phường Dịch Vọng Hậu,Quận Cầu Giấy,Hà Nội,60.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.55
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.38
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,3,0,nan,chungCu,Sổ hồng,0,3.11
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,84.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.394
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,58.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.92
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.83
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,95.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.3
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.16
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,135.0,1,3,1,0,nan,chungCu,Sổ hồng,0,4.15
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,69.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.165
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,78.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.933
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,81.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.533
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,88.0,1,3,2,0,nan,chungCu,Sổ hồng,0,5.0
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,87.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.1
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,77.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.2
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,81.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.55
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,77.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.213
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.955
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.88
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,96.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.97
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,104.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.25
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.2
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,61.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.257
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,85.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.4
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,128.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.5
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,109.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.2
+Nguyễn Thị Định, Phường Nghĩa Đô,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.68
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,86.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.58
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,135.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.1
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,78.0,1,3,2,0,nan,chungCu,Sổ hồng,0,2.63
+Xuân Thủy, Phường Nghĩa Đô,Quận Cầu Giấy,Hà Nội,109.0,1,3,3,0,nan,chungCu,Sổ hồng,0,3.32
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,3.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.52
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,135.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.12
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,128.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.52
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,116.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.92
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.05
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,682.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.53
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,135.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.2
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,91.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.72
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.0
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,71.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.75
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,136.0,1,4,2,0,nan,chungCu,Sổ hồng,0,4.55
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,115.0,1,3,3,0,nan,chungCu,Sổ hồng,0,3.45
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,109.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.72
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,103.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.4
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,106.0,1,3,3,0,nan,chungCu,Sổ hồng,0,4.028
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,66.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.13
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,133.0,1,3,3,0,nan,chungCu,Sổ hồng,0,4.125
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,135.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.19
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,107.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.03
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.2
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,61.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.26
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,137.0,1,3,3,0,nan,chungCu,Sổ hồng,0,4.19
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,3,0,nan,chungCu,Sổ hồng,0,3.69
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,91.0,1,3,2,0,nan,chungCu,Sổ hồng,0,2.52
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,78.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.3
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,66.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.13
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,114.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.69
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,128.0,1,3,3,0,nan,chungCu,Sổ hồng,0,4.189
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,69.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.05
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,66.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.12
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,91.0,1,3,2,0,nan,chungCu,Sổ hồng,0,2.52
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ hồng,0,2.85
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,117.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.9
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,111.0,1,3,3,0,nan,chungCu,Sổ hồng,0,3.71
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,85.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.56
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.7
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,94.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.89
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,136.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.22
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,173.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.25
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,90.0,1,3,2,0,nan,chungCu,Sổ hồng,0,2.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,136.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.22
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.44
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.195
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,40.0,1,1,1,0,nan,chungCu,Sổ hồng,0,1.37
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.4
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,93.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.99
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.45
+Đỗ Quang, Phường Trung Hòa,Quận Cầu Giấy,Hà Nội,111.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.75
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,114.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.4
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,111.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.7
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,109.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.2
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,131.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.12
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,91.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.72
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.98
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,85.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.55
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,66.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.1
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,106.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.03
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,118.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.92
+Nguyễn Ngọc Vũ, Phường Nghĩa Đô,Quận Cầu Giấy,Hà Nội,78.0,1,3,2,0,nan,chungCu,Sổ hồng,0,2.62
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,66.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.1
+Thành Thái, Phường Nghĩa Đô,Quận Cầu Giấy,Hà Nội,132.0,1,4,2,0,nan,chungCu,Sổ hồng,0,4.5
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,33.0,1,1,1,0,nan,chungCu,Sổ hồng,0,1.37
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,91.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.73
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,85.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.6
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.0
+Phường Nghĩa Tân,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,40.0,1,1,1,0,nan,chungCu,Sổ hồng,0,1.5
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,109.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.2
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,109.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.22
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,130.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.1
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.92
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.7
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,146.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.36
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,57.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.88
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,135.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.2
+Phùng Chí Kiên, Phường Trung Hòa,Quận Cầu Giấy,Hà Nội,88.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.6
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,78.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.3
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.265
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.1
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,89.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.62
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,105.0,1,3,2,0,nan,chungCu,Sổ hồng,0,2.9
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,78.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.02
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,121.0,1,3,3,0,nan,chungCu,Sổ hồng,0,3.72
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.71
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,88.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.7
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,71.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.0
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.72
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,149.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.58
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,54.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.2
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,109.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.25
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,92.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.72
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,2,2,0,nan,chungCu,Sổ hồng,0,0.01
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,82.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.6
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,82.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.62
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.65
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.5
+Phường Quan Hoa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,3,0,nan,chungCu,Sổ hồng,0,2.96
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,95.0,1,3,2,0,nan,chungCu,Sổ hồng,0,2.75
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,94.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.2
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,63.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.76
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,97.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.28
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.93
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,131.0,1,3,3,0,nan,chungCu,Sổ hồng,0,3.4
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,65.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.03
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.3
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,132.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.41
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,64.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.1
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,91.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.7
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,91.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.72
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,45.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.8
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,91.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.72
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,64.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.1
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,57.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.95
+Đông Quan, Phường Nghĩa Tân,Quận Cầu Giấy,Hà Nội,65.0,1,2,7,0,nan,chungCu,Sổ hồng,0,1.885
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,91.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.96
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,120.0,1,3,3,0,nan,chungCu,Sổ hồng,0,3.7
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,63.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.795
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,97.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.298
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.5
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,120.0,1,3,3,0,nan,chungCu,Sổ hồng,0,5.28
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,91.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.97
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,67.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.1
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,62.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.75
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,56.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.8
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,78.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.75
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,148.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.48
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,93.0,1,2,2,0,nan,chungCu,Sổ hồng,0,4.2
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,87.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,151.0,1,3,3,0,nan,chungCu,Sổ hồng,0,3.775
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.115
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.16
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,86.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.68
+Phạm Thận Duật, Phường Nghĩa Đô,Quận Cầu Giấy,Hà Nội,50.0,1,1,1,0,nan,chungCu,Sổ hồng,0,1.05
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,30.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.009
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,71.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.72
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,97.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.5
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,98.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.3
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.58
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.03
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.1
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,130.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.92
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.05
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.016
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,97.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.783
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,125.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.5
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,97.0,1,2,1,0,nan,chungCu,Sổ hồng,0,3.5
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.4
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,126.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.55
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,135.0,1,3,3,0,nan,chungCu,Sổ hồng,0,3.645
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.55
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,128.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.55
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.2
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,121.0,1,2,2,0,nan,chungCu,Sổ hồng,0,3.6
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,80.0,1,3,1,0,nan,chungCu,Sổ hồng,0,1.7
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,114.0,1,3,3,0,nan,chungCu,Sổ hồng,0,3.336
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,112.0,1,3,3,0,nan,chungCu,Sổ hồng,0,3.1
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,97.0,1,3,3,0,nan,chungCu,Sổ hồng,0,3.3
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,120.0,1,3,3,0,nan,chungCu,Sổ hồng,0,3.7
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.65
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.7
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,114.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.3
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,160.0,1,3,3,0,nan,chungCu,Sổ hồng,0,4.0
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,63.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.6
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.66
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ hồng,0,0.7
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.9
+Trần Bình, Phường Trung Hòa,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.27
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ hồng,0,0.55
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,125.0,1,3,2,0,nan,chungCu,Sổ hồng,0,3.5
+Phường Mai Dịch,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.3
+Phường Dịch Vọng Hậu,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,69.0,1,2,2,0,nan,chungCu,Sổ hồng,0,16.6
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,133.0,1,3,3,0,nan,chungCu,Sổ hồng,0,4.26
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,62.0,1,2,2,0,nan,chungCu,Sổ hồng,0,1.7
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,95.0,1,3,3,0,nan,chungCu,Sổ hồng,0,2.75
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,113.0,1,8,3,0,nan,chungCu,Sổ hồng,0,3.35
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,127.0,1,3,3,0,nan,chungCu,Sổ hồng,0,3.8
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,85.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.36
+Phường Yên Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,128.0,1,3,2,0,nan,chungCu,Sổ hồng,0,4.22
+Phường Dịch Vọng,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,56.0,1,2,1,0,nan,chungCu,Sổ hồng,0,1.86
+Phường Trung Hòa,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,88.0,1,2,1,0,nan,chungCu,Sổ hồng,0,2.46
+Phường Nghĩa Đô,Quận Cầu Giấy,Quận Cầu Giấy,Hà Nội,84.0,1,2,2,0,nan,chungCu,Sổ hồng,0,2.52
+Phường Bách Khoa,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,85.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.789
+Ngõ Trại Găng, Phường Thanh Nhàn,Quận Hai Bà Trưng,Hà Nội,30.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,3.55
+Hoa Lư, Phường Lê Đại Hành,Quận Hai Bà Trưng,Hà Nội,97.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,6.5
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,82.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.65
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,63.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.88
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,560.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,41.0
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,6.0
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,6.0
+Kim Ngưu, Phường Vĩnh Tuy,Quận Hai Bà Trưng,Hà Nội,59.0,1,14,15,0,nan,chungCu,Sổ đỏ,0,9.9
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,81.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.7
+Phường Đồng Tâm,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,110.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.9
+Phường Phố Huế,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,47.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.598
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,58.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,0.65
+Ngõ Gốc Đề, Phường Minh Khai,Quận Hai Bà Trưng,Hà Nội,55.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.67
+Phường Bách Khoa,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.622
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,91.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.8
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,71.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.3
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,111.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,7.2
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.3
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,91.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.1
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,106.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.6
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,58.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,0.66
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,67.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.97
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.7
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.0
+Phường Bách Khoa,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,55.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.69
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,47.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,3.15
+Phường Đống Mác,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,53.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.65
+Phường Bách Khoa,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,50.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.68
+Phường Thanh Nhàn,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,56.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.65
+Phường Bạch Đằng,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,125.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,8.5
+Phường Bạch Đằng,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,162.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,9.0
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.7
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,120.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,7.5
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,90.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.6
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,71.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.3
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,46.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,3.2
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.8
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.0
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,115.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,7.85
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,100.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,6.6
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,105.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,6.4
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,49.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,3.08
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,117.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,7.95
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,90.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.2
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,105.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.2
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.35
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,73.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.75
+Phường Bạch Đằng,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,90.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,6.7
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,76.0,1,2,0,0,nan,chungCu,Sổ đỏ,0,3.7
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,59.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.15
+Phường Bạch Đằng,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,162.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,14.0
+Phường Bạch Đằng,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,120.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,7.0
+Phường Bạch Đằng,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,87.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,6.8
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,56.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,3.1
+Phường Bạch Đằng,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,110.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,7.3
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,82.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.5
+Phường Bạch Đằng,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,120.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,6.5
+Phường Bạch Đằng,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,104.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,6.5
+Phường Bạch Đằng,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,108.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,6.9
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,134.0,1,4,2,0,nan,chungCu,Sổ đỏ,0,7.0
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.0
+Giải Phóng, Phường Đồng Tâm,Quận Hai Bà Trưng,Hà Nội,42.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.76
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,52.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,2.6
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,127.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.2
+Trần Khát Chân, Phường Bạch Đằng,Quận Hai Bà Trưng,Hà Nội,35.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.75
+Giải Phóng, Phường Đồng Tâm,Quận Hai Bà Trưng,Hà Nội,35.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.76
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,120.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.1
+Phường Bạch Đằng,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,90.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,6.7
+Phường Bạch Đằng,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,8.5
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,98.0,1,3,1,0,nan,chungCu,Sổ đỏ,0,5.422
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,87.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.0
+Phường Đống Mác,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,80.0,1,2,3,0,nan,chungCu,Sổ đỏ,0,2.75
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.1
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,98.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.25
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,30.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.6
+Lò Đúc, Phường Thanh Nhàn,Quận Hai Bà Trưng,Hà Nội,30.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.6
+Phường Thanh Lương,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,32.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.6
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.25
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,106.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.0
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,87.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.0
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,90.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,5.1
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,68.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.69
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,68.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.54
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.55
+Phường Bạch Đằng,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,78.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.55
+Phường Bạch Đằng,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,114.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,8.7
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,6.6
+Phường Thanh Lương,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.8
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.805
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.85
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,80.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.25
+Phường Đồng Tâm,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,200.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.04
+Phường Đồng Tâm,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,200.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.004
+Phường Đồng Tâm,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,200.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.04
+Phường Bạch Mai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,45.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.85
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,93.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.0
+Phường Lê Đại Hành,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,84.0,1,1,2,0,nan,chungCu,Sổ đỏ,0,6.65
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,100.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.8
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,63.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.6
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,82.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.65
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,74.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.1
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,88.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.2
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,45.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.75
+Phường Thanh Lương,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,50.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.75
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.45
+Phường Trương Định,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,85.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.85
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,89.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.6800000000000002
+Phường Thanh Nhàn,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,40.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.2
+Nguyễn Hiền, Phường Bách Khoa,Quận Hai Bà Trưng,Hà Nội,80.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.3
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,32.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.35
+Phường Trương Định,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.65
+Trần Thánh Tông, Phường Bạch Đằng,Quận Hai Bà Trưng,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.8
+Phường Thanh Nhàn,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,50.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.45
+Thi Sách, Phường Ngô Thì Nhậm,Quận Hai Bà Trưng,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.08
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,98.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,0.0
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,101.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.2
+Phường Bạch Đằng,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,130.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,8.39
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,113.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.0
+Lò Đúc, Phường Ngô Thì Nhậm,Quận Hai Bà Trưng,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.3
+Ngõ Gốc Đề, Phường Minh Khai,Quận Hai Bà Trưng,Hà Nội,45.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.4
+Phường Quỳnh Mai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,32.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.68
+Đoàn Trần Nghiệp, Phường Vĩnh Tuy,Quận Hai Bà Trưng,Hà Nội,108.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.3
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,79.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.94
+Phường Quỳnh Mai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.36
+Phường Quỳnh Mai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.2
+Phường Bạch Mai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,26.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.55
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,108.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.55
+Quỳnh Lôi, Phường Quỳnh Mai,Quận Hai Bà Trưng,Hà Nội,38.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.4
+Phường Bạch Mai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.3
+Bà Triệu, Phường Trương Định,Quận Hai Bà Trưng,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.7
+Phường Quỳnh Mai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,37.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.25
+Nguyễn Khoái, Phường Thanh Lương,Quận Hai Bà Trưng,Hà Nội,56.0,1,3,1,0,nan,chungCu,Sổ đỏ,0,1.05
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,72.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.55
+Phường Thanh Nhàn,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,93.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.5
+Trần Hưng Đạo, Phường Đồng Nhân,Quận Hai Bà Trưng,Hà Nội,45.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.3
+Phường Quỳnh Mai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,32.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.68
+Phường Thanh Lương,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,30.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.4
+Tam Trinh, Phường Minh Khai,Quận Hai Bà Trưng,Hà Nội,59.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.75
+Quỳnh Lôi, Phường Quỳnh Mai,Quận Hai Bà Trưng,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.75
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,90.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.75
+Phường Thanh Lương,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.35
+Phường Đống Mác,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,45.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.3
+Ngõ Giếng Mứt, Phường Bạch Mai,Quận Hai Bà Trưng,Hà Nội,24.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.6
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,95.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.4
+Phường Thanh Lương,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,45.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.48
+Phường Quỳnh Mai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,32.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.46
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,93.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.3
+Phường Lê Đại Hành,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,45.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.5
+Phường Vĩnh Tuy,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.1
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,90.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.7
+Phường Thanh Nhàn,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.78
+Phường Thanh Nhàn,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.17
+Quỳnh Lôi, Phường Thanh Nhàn,Quận Hai Bà Trưng,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.9
+Phường Thanh Nhàn,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.78
+Ngõ Quỳnh, Phường Quỳnh Lôi,Quận Hai Bà Trưng,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.75
+Phường Thanh Nhàn,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,56.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.3
+Phường Thanh Nhàn,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,56.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.2
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,55.0,1,4,4,0,nan,chungCu,Sổ đỏ,0,0.0
+Phường Lê Đại Hành,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,50.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.75
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,30.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.25
+Phường Phạm Đình Hổ,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,119.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.8
+Phường Minh Khai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,73.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.5
+Phường Bạch Mai,Quận Hai Bà Trưng,Quận Hai Bà Trưng,Hà Nội,42.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.3
+Phường Lĩnh Nam,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,112.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.65
+Đền Lừ, Phường Hoàng Văn Thụ,Quận Hoàng Mai,Hà Nội,68.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,3.0
+Phường Hoàng Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,86.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.45
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,61.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.27
+Phường Định Công,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,66.0,1,4,4,0,nan,chungCu,Sổ đỏ,0,15.0
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.55
+Phường Tương Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,85.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.0
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,105.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.25
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,90.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.8
+Vành Đai 3, Phường Đại Kim,Quận Hoàng Mai,Hà Nội,95.0,1,3,1,0,nan,chungCu,Sổ đỏ,0,3.95
+Phố Tân Khai, Phường Tân Mai,Quận Hoàng Mai,Hà Nội,62.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.45
+Đền Lừ, Phường Hoàng Văn Thụ,Quận Hoàng Mai,Hà Nội,56.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.4
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,55.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.23
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,62.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.16
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,35.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,3.9
+Phường Mai Động,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,85.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.0
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,93.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.5
+Phường Mai Động,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,81.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.25
+Phường Định Công,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,66.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.1
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,52.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.66
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,200.0,1,4,3,0,nan,chungCu,Sổ đỏ,0,3.9
+Trương Định, Phường Tương Mai,Quận Hoàng Mai,Hà Nội,56.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.65
+Kim Đồng, Phường Giáp Bát,Quận Hoàng Mai,Hà Nội,50.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.61
+Phường Tân Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,53.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.635
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,52.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.63
+Đền Lừ, Phường Hoàng Văn Thụ,Quận Hoàng Mai,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.3
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,53.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.62
+Bờ Sông Sét, Phường Tân Mai,Quận Hoàng Mai,Hà Nội,60.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,0.69
+Kim Đồng, Phường Giáp Bát,Quận Hoàng Mai,Hà Nội,54.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.63
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,37.0,1,4,5,0,nan,chungCu,Sổ đỏ,0,5.5
+Phường Mai Động,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,73.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.3
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,54.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.55
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,69.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.95
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,45.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.29
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,54.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.6
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,60.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.5
+Phường Định Công,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,58.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.5
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,90.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.465
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,54.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.58
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,45.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.3
+Phường Hoàng Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,71.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.0
+Phường Hoàng Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,82.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.526
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.8
+Phường Tương Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,85.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.449
+Phường Mai Động,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,93.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.0
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,69.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.2
+Phường Mai Động,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,79.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.4
+Phường Định Công,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,60.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.45
+Phường Tương Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,121.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.0
+Phường Tân Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,96.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.8
+Phố Trịnh Đình Cửu, Phường Định Công,Quận Hoàng Mai,Hà Nội,60.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.3
+Phường Tân Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,55.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.5
+Phường Định Công,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,72.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.2
+Phường Tân Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,100.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.1
+Phường Tân Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,91.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.4
+Phường Tương Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,86.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.45
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.7
+Phường Tân Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,67.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.28
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,45.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.19
+Phường Thịnh Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,85.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.499
+Phường Hoàng Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,72.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.3
+Tam Trinh, Phường Đại Kim,Quận Hoàng Mai,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.99
+Tam Trinh, Phường Đại Kim,Quận Hoàng Mai,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.49
+Nguyễn Tam Trinh, Phường Vĩnh Hưng,Quận Hoàng Mai,Hà Nội,63.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.95
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,48.0,1,2,0,0,nan,chungCu,Sổ đỏ,0,0.62
+Phường Hoàng Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,58.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,0.174
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.99
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,48.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.8
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,64.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.3
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,68.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.05
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,67.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.5
+Linh Đàm, Phường Hoàng Liệt,Quận Hoàng Mai,Hà Nội,92.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.6
+Ngọc Hồi, Phường Giáp Bát,Quận Hoàng Mai,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.5
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,86.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.9
+Phường Định Công,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,93.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.0
+Phường Tương Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,87.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.65
+Nguyễn Duy Trinh, Phường Đại Kim,Quận Hoàng Mai,Hà Nội,107.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.6
+Phường Thịnh Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,64.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.65
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,69.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.967
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.92
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.3
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.854
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,86.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.05
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,74.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.15
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,30.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.07
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,30.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.75
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,32.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.75
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.96
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,91.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.5
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,73.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.0
+Nguyễn Duy Trinh, Phường Đại Kim,Quận Hoàng Mai,Hà Nội,91.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,4.3
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,91.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.4
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.65
+Phường Định Công,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,67.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.7
+Kim Đồng, Phường Vĩnh Hưng,Quận Hoàng Mai,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.35
+Phố Tân Khai, Phường Vĩnh Hưng,Quận Hoàng Mai,Hà Nội,78.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.2
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,96.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.2
+Phường Mai Động,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,80.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.8
+Phường Mai Động,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,72.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.8
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,94.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.8
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,81.0,1,5,3,0,nan,chungCu,Sổ đỏ,0,8.2
+Phường Mai Động,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,118.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.6
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,23.0,1,3,3,0,nan,chungCu,Sổ đỏ,0,3.45
+Phường Định Công,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,77.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.387
+Phường Yên Sở,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,59.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.8
+Linh Đàm, Phường Hoàng Văn Thụ,Quận Hoàng Mai,Hà Nội,71.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,1.6
+Yên Sở, Phường Lĩnh Nam,Quận Hoàng Mai,Hà Nội,130.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.9
+Đại Kim, Phường Vĩnh Hưng,Quận Hoàng Mai,Hà Nội,114.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.55
+Phường Tân Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,45.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.94
+Linh Đàm, Phường Vĩnh Hưng,Quận Hoàng Mai,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.5
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,94.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.6
+Phường Định Công,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.0
+Phường Tân Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,123.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,5.0
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,51.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.25
+Phường Yên Sở,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,65.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.85
+Phường Hoàng Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,60.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.18
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,56.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.4
+Phường Tân Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,58.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.845
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,64.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.8
+Phường Yên Sở,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,78.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.85
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,97.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.8
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,61.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.15
+Phường Tương Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,122.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.0
+Yên Sở, Phường Tương Mai,Quận Hoàng Mai,Hà Nội,62.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.5
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,61.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.25
+Giải Phóng, Phường Thịnh Liệt,Quận Hoàng Mai,Hà Nội,95.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.8
+Phường Vĩnh Hưng,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,80.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.5
+Phường Hoàng Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,67.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.65
+Phường Tân Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,50.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,0.9
+Giải Phóng, Phường Thịnh Liệt,Quận Hoàng Mai,Hà Nội,36.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,3.6
+Phường Thịnh Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,54.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.4
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,71.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.35
+Phường Tương Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,52.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.15
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,44.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.3
+Phường Thịnh Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,84.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,1.9
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,101.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.75
+Phường Vĩnh Hưng,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,63.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.75
+Phường Tân Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,110.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,1.58
+Đại Từ, Phường Lĩnh Nam,Quận Hoàng Mai,Hà Nội,95.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.2
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,62.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.15
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,77.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.6
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,75.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.1
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,61.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,1.25
+Thanh Đàm, Phường Thanh Trì,Quận Hoàng Mai,Hà Nội,82.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.6
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,50.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.45
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,62.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.75
+Phường Tân Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,70.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.75
+Phường Vĩnh Hưng,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,72.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.85
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,100.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.05
+Phường Định Công,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,93.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.15
+Phường Yên Sở,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,98.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,3.98
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,93.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.6
+Phường Yên Sở,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,98.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.2
+Phường Thịnh Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,94.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,2.6
+Phường Yên Sở,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,98.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,4.2
+Phường Thịnh Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,103.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.7
+Phường Hoàng Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,52.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.6
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,93.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.5
+Phường Thịnh Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,93.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.5
+Phường Vĩnh Hưng,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,82.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,1.9
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,45.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.97
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,35.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.82
+Phường Đại Kim,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,45.0,1,1,1,0,nan,chungCu,Sổ đỏ,0,0.9
+Phường Yên Sở,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,69.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,1.95
+Phường Vĩnh Hưng,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,76.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.9
+Bằng B -Thanh Liệt, Phường Hoàng Liệt,Quận Hoàng Mai,Hà Nội,75.0,1,0,2,0,nan,chungCu,Sổ đỏ,0,1.23
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,94.0,1,2,1,0,nan,chungCu,Sổ đỏ,0,2.4
+Phường Tương Mai,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,130.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.86
+Phường Hoàng Văn Thụ,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,64.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.2
+Phường Hoàng Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,57.0,1,2,2,0,nan,chungCu,Sổ đỏ,0,1.5
+Phường Hoàng Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,79.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.0
+Phường Hoàng Liệt,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,85.0,1,3,2,0,nan,chungCu,Sổ đỏ,0,2.2
+Phường Giáp Bát,Quận Hoàng Mai,Quận Hoàng Mai,Hà Nội,48.0,1,4,4,0,nan,chungCu,Sổ đỏ,0,5.65
